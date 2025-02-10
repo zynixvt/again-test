@@ -1,0 +1,40 @@
+j 
+h1 {
+border:solid 2px black;
+text-align: center;
+color:white  ;
+ }
+
+img { 
+ border:solid 2px black;
+ border-radius: 10px;
+ background-color:white;
+ margin : 10px;
+ 
+ 
+}
+#imagen2 {
+ margin-left: 22px;
+}
+p {
+ font-weight: bold;
+ border: solid 1px white;
+border-radius: 5px;
+color: white ;
+text-align: center ;
+}
+.ciclo  {
+bacqkground-color: black;
+ border: solid 1px white;y
+}
+html {
+  background: url("http://localhost:8080/c64f4b9b3abddf6894923b219410cc84.jpg");
+ widht:100%;
+ height:100%;
+}
+ #duki{
+  border:solid 3px white;
+ }
+li{
+ color:white;
+}
